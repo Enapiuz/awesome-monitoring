@@ -15,7 +15,7 @@ A curated list of amazingly awesome tools, services and shiny other things for m
 
 - [Piwik](https://piwik.org) - open source alternative to Google Analytics
 
-##Bug Tracking
+## Bug Tracking
 - [Bugzilla](https://www.bugzilla.org/) - Bugzilla is a "Defect Tracking System" or "Bug-Tracking System". Defect Tracking Systems allow individual or groups of developers to keep track of outstanding bugs in their product effectively. Most commercial defect-tracking software vendors charge enormous licensing fees. Despite being "free", Bugzilla has many features its expensive counterparts lack. Consequently, Bugzilla has quickly become a favorite of thousands of organizations across the globe.
 - [Mantis](https://www.mantisbt.org/) - MantisBT is an open source issue tracker that provides a delicate balance between simplicity and power. Users are able to get started in minutes and start managing their projects while collaborating with their teammates and clients effectively. Once you start using it, you will never go back!
 - [Trac](https://trac.edgewall.org/) - Trac is an enhanced wiki and issue tracking system for software development projects. Trac uses a minimalistic approach to web-based software project management. Our mission is to help developers write great software while staying out of the way. Trac should impose as little as possible on a team's established development process and policies.
