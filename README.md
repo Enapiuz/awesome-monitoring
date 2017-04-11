@@ -20,6 +20,7 @@ Complex infrastructure software
 
 Dashboards
 
+- [Grafana](https://grafana.com) - the first really good dashboard for displaying metrics.
 - [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 - [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
 - [Adagios](http://adagios.org/) - Web based Nagios configuration interface.
