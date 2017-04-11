@@ -86,3 +86,8 @@ Databases
 - [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 - [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 - [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
+
+
+# License
+
+[![CC4](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
