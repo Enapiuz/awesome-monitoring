@@ -43,6 +43,7 @@ Uptime
 - [Heap Analytics](https://heapanalytics.com) - easy event tracking without coding
 
 ## Bug Tracking
+
 - [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
 
 ## Anomalies
@@ -50,14 +51,15 @@ Uptime
 - [Banshee](https://github.com/eleme/banshee) - real-time anomalies(outliers) detection system for periodic metrics
 
 ## Logging
-`// todo`
+
+- [Brubeck](https://github.com/github/brubeck) - Statsd-compatible stats aggregator written in C
 
 ## Alerting
 
+- [Moira](https://github.com/moira-alert) - Most powerful alerting system, backed by Graphite.
 - [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
 - [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
 - [Seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite.
-- [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 
 ## Database
 
@@ -67,6 +69,7 @@ Tools for databases
 
 Databases
 
+- [Graphite](https://graphiteapp.org) - More, than a time series database. And so awesome using with Grafana.
 - [Prometheus](https://prometheus.io) - Time series database for real-time monitoring and alerting
 - [InfluxDB](https://github.com/influxdata/influxdb) - time-series database built from the ground up to handle high write and query loads
 
