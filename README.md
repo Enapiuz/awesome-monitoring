@@ -37,6 +37,7 @@ Uptime
 - [NewRelic](https://newrelic.com) - complex service for both application and infrastructure monitoring
 - [DataDog](https://www.datadoghq.com) - complex service for both application and infrastructure monitoring
 - [OverOps](https://www.overops.com) - OverOps provides Automated Root Cause (ARC) analysis to reduce the time to identify and fix critical production application errors.
+- [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
 
 ## Web Analytics
 
