@@ -43,6 +43,7 @@ Uptime
 
 - [Piwik](https://piwik.org) - open source alternative to Google Analytics
 - [Heap Analytics](https://heapanalytics.com) - easy event tracking without coding
+- [Screpy](https://screpy.com) - Screpy is a web analyzer and monitoring tool. Its powered by Google Lighthouse.
 
 ## Bug Tracking
 
