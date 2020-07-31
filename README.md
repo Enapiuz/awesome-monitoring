@@ -25,6 +25,7 @@ Dashboards
 - [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 - [Uchiwa](https://uchiwa.io) - Simple dashboard for the Sensu monitoring framework.
 - [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
+- [Netdata](https://www.netdata.cloud/agent/) - Troubleshoot slowdowns and anomalies in your infrastructure with thousands of metrics, interactive visualizations, and insightful health alarms.
 
 Uptime
 
