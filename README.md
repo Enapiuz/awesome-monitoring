@@ -6,7 +6,7 @@ A curated list of amazingly awesome tools, services and other shiny things for m
 
 Complex infrastructure software
 
-- [Zabbix](http://www.zabbix.com) - real-time monitoring of millions of metrics collected from tens of thousands of servers, virtual machines and network devices
+- [Zabbix](http://www.zabbix.com) - Real-time monitoring of millions of metrics collected from tens of thousands of servers, virtual machines and network devices
 - [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 - [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
 - [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
@@ -18,7 +18,7 @@ Complex infrastructure software
 
 Dashboards
 
-- [Grafana](https://grafana.com) - the first really good dashboard for displaying metrics.
+- [Grafana](https://grafana.com) - The first really good dashboard for displaying metrics.
 - [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 - [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
 - [Adagios](http://adagios.org/) - Web based Nagios configuration interface.
@@ -29,30 +29,31 @@ Dashboards
 
 Uptime
 
-- [Monitive](http://monitive.com) - free for 1 service, checked every 10 minutes with unlimited email & twitter alerts
-- [UptimeRobot](https://uptimerobot.com) - free for 50 monitors, checked every 5 minutes
+- [Monitive](http://monitive.com) - Free for 1 service, checked every 10 minutes with unlimited email & twitter alerts
+- [UptimeRobot](https://uptimerobot.com) - Free for 50 monitors, checked every 5 minutes
 
 ## APM
 *Application Performance monitoring*
 
-- [NewRelic](https://newrelic.com) - complex service for both application and infrastructure monitoring
-- [DataDog](https://www.datadoghq.com) - complex service for both application and infrastructure monitoring
+- [NewRelic](https://newrelic.com) - Complex service for both application and infrastructure monitoring
+- [DataDog](https://www.datadoghq.com) - Complex service for both application and infrastructure monitoring
 - [OverOps](https://www.overops.com) - OverOps provides Automated Root Cause (ARC) analysis to reduce the time to identify and fix critical production application errors.
 - [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
 
 ## Web Analytics
 
-- [Piwik](https://piwik.org) - open source alternative to Google Analytics
-- [Heap Analytics](https://heapanalytics.com) - easy event tracking without coding
+- [Matomo](https://matomo.org/) - Take back control with Matomo – a powerful web analytics platform that gives you 100% data ownership.
+- [Heap Analytics](https://heap.io/) - Easy event tracking without coding
 - [Screpy](https://screpy.com) - Screpy is a web analyzer and monitoring tool. Its powered by Google Lighthouse.
+- [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and cookie-free web analytics.
 
 ## Bug Tracking
 
-- [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
+- [Sentry](https://sentry.io) - Application monitoring, event logging and aggregation.
 
 ## Anomalies
 
-- [Banshee](https://github.com/eleme/banshee) - real-time anomalies(outliers) detection system for periodic metrics
+- [Banshee](https://github.com/eleme/banshee) - Real-time anomalies(outliers) detection system for periodic metrics
 
 ## Logging
 
@@ -75,13 +76,13 @@ Databases
 
 - [Graphite](https://graphiteapp.org) - More, than a time series database. And so awesome using with Grafana.
 - [Prometheus](https://prometheus.io) - Time series database for real-time monitoring and alerting
-- [InfluxDB](https://github.com/influxdata/influxdb) - time-series database built from the ground up to handle high write and query loads
+- [InfluxDB](https://github.com/influxdata/influxdb) - Time-series database built from the ground up to handle high write and query loads
 
 ## Network
 
 - [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 - [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
-- [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
+- [LibreNMS](https://github.com/librenms/librenms/) - Fork of Observium.
 
 
 # License
