@@ -53,7 +53,7 @@ Uptime
 
 ## Anomalies
 
-- [Banshee](https://github.com/eleme/banshee) - Real-time anomalies(outliers) detection system for periodic metrics
+- [Banshee](https://github.com/facesea/banshee) - Real-time anomalies(outliers) detection system for periodic metrics
 
 ## Logging
 
