@@ -31,6 +31,7 @@ Uptime
 
 - [Monitive](http://monitive.com) - Free for 1 service, checked every 10 minutes with unlimited email & twitter alerts
 - [UptimeRobot](https://uptimerobot.com) - Free for 50 monitors, checked every 5 minutes
+- [UpTime.onl](https://uptime.onl) - Free for 10 URLs, checked every 5 minutes
 
 ## APM
 *Application Performance monitoring*
@@ -50,6 +51,7 @@ Uptime
 ## Bug Tracking
 
 - [Sentry](https://sentry.io) - Application monitoring, event logging and aggregation.
+- [Bugsnag](https://bugsnag.com) - Application monitoring, event logging and aggregation.
 
 ## Anomalies
 
@@ -58,6 +60,7 @@ Uptime
 ## Logging
 
 - [Brubeck](https://github.com/github/brubeck) - Statsd-compatible stats aggregator written in C
+- [Loggly](https://loggly.com) - Aggregate & analyze logs from any source
 
 ## Alerting
 
