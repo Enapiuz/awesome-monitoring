@@ -29,12 +29,13 @@ Dashboards
 
 Uptime
 
+- [Freshping](https://www.freshworks.com/website-monitoring) - Free for 50 monitors, checked every 1 minutes, supports websocket monitoring
 - [Monitive](http://monitive.com) - Free for 1 service, checked every 10 minutes with unlimited email & twitter alerts
 - [UptimeRobot](https://uptimerobot.com) - Free for 50 monitors, checked every 5 minutes
 - [UpTime.onl](https://uptime.onl) - Free for 10 URLs, checked every 5 minutes
 - [UpTime360](https://uptime360.net) - checked every 5 minutes. Monitor server, website, blacklist, custom services and publish status pages
                                        Get notified instantly on popular notification channels like - Slack, Twitter, Email, SMS (Twillo) and Pushover
-                                       
+- [PingRobot](https://pingrobot.io) - Free for 50 monitors, checked every 5 minutes
 
 ## APM
 *Application Performance monitoring*
