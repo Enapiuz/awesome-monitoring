@@ -13,7 +13,6 @@ Complex infrastructure software
 - [Opsview](https://www.opsview.com/products/opsview-atom) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
 - [Centreon](http://www.centreon.com) - IT infrastructure and application monitoring for service performance.
 - [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
-- [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 - [Icinga](https://www.icinga.org/) - Fork of Nagios.
 
 Dashboards
@@ -66,6 +65,7 @@ Uptime
 
 - [Brubeck](https://github.com/github/brubeck) - Statsd-compatible stats aggregator written in C
 - [Loggly](https://loggly.com) - Aggregate & analyze logs from any source
+- [Logit.io](https://logit.io) - Centralise logs and metrics using the ELK Stack, Grafana & Open Distro.
 
 ## Alerting
 
