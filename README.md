@@ -35,6 +35,7 @@ Uptime
 - [UpTime360](https://uptime360.net) - checked every 5 minutes. Monitor server, website, blacklist, custom services and publish status pages
                                        Get notified instantly on popular notification channels like - Slack, Twitter, Email, SMS (Twillo) and Pushover
 - [PingRobot](https://pingrobot.io) - Free for 50 monitors, checked every 5 minutes
+- [Nodown](https://nodown.io) - Free for 5 probes, with email monitoring
 - [elmah.io](https://elmah.io/features/uptime-monitoring/) - Uptime monitoring combined with application error logging
 
 ## APM
