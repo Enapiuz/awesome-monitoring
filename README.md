@@ -14,6 +14,7 @@ Complex infrastructure software
 - [Centreon](http://www.centreon.com) - IT infrastructure and application monitoring for service performance.
 - [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
 - [Icinga](https://www.icinga.org/) - Fork of Nagios.
+- [openITCOCKPIT](https://openitcockpit.io/) - Powerful open-source monitoring tool built upon Naemon or Nagios, featuring seamless integration with Grafana, an array of comprehensive reports, and visualizations.
 
 Dashboards
 
