@@ -95,7 +95,7 @@ Databases
 - [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 - [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 - [LibreNMS](https://github.com/librenms/librenms/) - Fork of Observium.
-
+- [Fluere](https://github.com/SkuldNorniern/fluere) - Versatile network interface monitoring and analysis tool, capable of capturing network packets in pcap format, NetFlow data. supports lua based plugins
 
 # License
 
