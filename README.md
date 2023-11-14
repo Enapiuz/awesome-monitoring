@@ -89,7 +89,8 @@ Databases
 - [Graphite](https://graphiteapp.org) - More, than a time series database. And so awesome using with Grafana.
 - [Prometheus](https://prometheus.io) - Time series database for real-time monitoring and alerting
 - [InfluxDB](https://github.com/influxdata/influxdb) - Time-series database built from the ground up to handle high write and query loads
-
+- [Levitate](https://last9.io/levitate-tsdb) - A Managed Time Series Metrics and Events Warehouse built to handle High Cardinality data.
+ 
 ## Network
 
 - [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
