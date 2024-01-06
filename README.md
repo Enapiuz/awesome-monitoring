@@ -15,6 +15,7 @@ Complex infrastructure software
 - [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
 - [Icinga](https://www.icinga.org/) - Fork of Nagios.
 - [openITCOCKPIT](https://openitcockpit.io/) - Powerful open-source monitoring tool built upon Naemon or Nagios, featuring seamless integration with Grafana, an array of comprehensive reports, and visualizations.
+- [Sematext Cloud](https://sematext.com/) - Infrastructure and log monitoring with service and log auto-discovery.  Basic plan is free.
 
 Dashboards
 
@@ -40,6 +41,7 @@ Uptime
 - [Nodown](https://nodown.io) - Free for 5 probes, with email monitoring
 - [elmah.io](https://elmah.io/features/uptime-monitoring/) - Uptime monitoring combined with application error logging
 - [StatusList.app](https://statuslist.app) - Uptime monitoring with debug details and hosted status page in one dashboard
+- [Sematext Synthetics](https://sematext.com/synthetic-monitoring) - Website uptime, API, and SSL certificate monitoring.  Includes status pages and scriptable multi-page user transaction monitoring, etc.
 
 ## APM
 *Application Performance monitoring*
@@ -70,6 +72,7 @@ Uptime
 - [Brubeck](https://github.com/github/brubeck) - Statsd-compatible stats aggregator written in C
 - [Loggly](https://loggly.com) - Aggregate & analyze logs from any source
 - [Logit.io](https://logit.io) - Centralise logs and metrics using the ELK Stack, Grafana & Open Distro.
+- [Sematext Logs](https://sematext.com/logsene) - Log monitoring with log auto-discovery and alerting; comes with out of the box dashboards, pipelines for transforming, masking, dropping, sampling log events and more.  Basic plan is free.
 
 ## Alerting
 
