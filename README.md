@@ -60,6 +60,7 @@ Uptime
 
 ## Bug Tracking
 
+- [Honeybadger](https://www.honeybadger.io) - Monitor application errors, performance, uptime, and logs in one simple tool for developers.
 - [Sentry](https://sentry.io) - Application monitoring, event logging and aggregation.
 - [Bugsnag](https://bugsnag.com) - Application monitoring, event logging and aggregation.
 
