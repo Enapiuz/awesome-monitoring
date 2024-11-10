@@ -31,6 +31,7 @@ Dashboards
 Uptime
 
 - [BetterUptime](https://betteruptime.com) - Free for 10 monitors, checked every 3 minutes, improved incident management capabilities
+- [BlueWave Uptime](https://github.com/bluewave-labs/bluewave-uptime) - Open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful visualizations.
 - [Freshping](https://www.freshworks.com/website-monitoring) - Free for 50 monitors, checked every 1 minutes, supports websocket monitoring
 - [Monitive](http://monitive.com) - Free for 1 service, checked every 10 minutes with unlimited email & twitter alerts
 - [Checkly](https://www.checklyhq.com/) - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright.
