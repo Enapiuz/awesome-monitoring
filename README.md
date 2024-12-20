@@ -60,6 +60,10 @@ Uptime
 - [Screpy](https://screpy.com) - Screpy is a web analyzer and monitoring tool. Its powered by Google Lighthouse.
 - [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and cookie-free web analytics.
 
+## API Analytics
+
+- [Apitally](https://apitally.io) - Analytics, request logging and monitoring for REST APIs with a focus on simplicity and data privacy.
+
 ## Bug Tracking
 
 - [Honeybadger](https://www.honeybadger.io) - Monitor application errors, performance, uptime, and logs in one simple tool for developers.
