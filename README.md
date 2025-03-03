@@ -16,7 +16,7 @@ Complex infrastructure software
 - [Icinga 2](https://www.icinga.com/) - A Nagios like monitoring system, rewritten and expanded.
 - [openITCOCKPIT](https://openitcockpit.io/) - Powerful open-source monitoring tool built upon Naemon or Nagios, featuring seamless integration with Grafana, an array of comprehensive reports, and visualizations.
 - [Sematext Cloud](https://sematext.com/) - Infrastructure and log monitoring with service and log auto-discovery.  Basic plan is free.
-
+- [Middleware](https://middleware.io) - Visualize, analyze, and optimize your infrastructure's performance in real-time, across any environment, OS, or orchestration tool.
 Dashboards
 
 - [Grafana](https://grafana.com) - The first really good dashboard for displaying metrics.
@@ -52,7 +52,7 @@ Uptime
 - [DataDog](https://www.datadoghq.com) - Complex service for both application and infrastructure monitoring
 - [OverOps](https://www.overops.com) - OverOps provides Automated Root Cause (ARC) analysis to reduce the time to identify and fix critical production application errors.
 - [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
-
+- [Middleware](https://middleware.io) - Middleware's APM helps you troubleshoot issues in real-time, optimize performance, improve user experience, and reduce downtime.
 ## Web Analytics
 
 - [Matomo](https://matomo.org/) - Take back control with Matomo – a powerful web analytics platform that gives you 100% data ownership.
