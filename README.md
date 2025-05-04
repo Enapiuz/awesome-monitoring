@@ -44,6 +44,7 @@ Uptime
 - [elmah.io](https://elmah.io/features/uptime-monitoring/) - Uptime monitoring combined with application error logging
 - [StatusList.app](https://statuslist.app) - Uptime monitoring with debug details and hosted status page in one dashboard
 - [Sematext Synthetics](https://sematext.com/synthetic-monitoring) - Website uptime, API, and SSL certificate monitoring.  Includes status pages and scriptable multi-page user transaction monitoring, etc.
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - An easy-to-use self-hosted monitoring tool.
 
 ## APM
 *Application Performance monitoring*
