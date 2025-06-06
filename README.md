@@ -45,6 +45,7 @@ Uptime
 - [StatusList.app](https://statuslist.app) - Uptime monitoring with debug details and hosted status page in one dashboard
 - [Sematext Synthetics](https://sematext.com/synthetic-monitoring) - Website uptime, API, and SSL certificate monitoring.  Includes status pages and scriptable multi-page user transaction monitoring, etc.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - An easy-to-use self-hosted monitoring tool.
+- [Phare](https://phare.io/products/uptime) - Free 100k monitoring events per months, 30s intervals, unlimited users, incident management, and sleek status pages.
 
 ## APM
 *Application Performance monitoring*
