@@ -39,8 +39,6 @@ Uptime
 - [UpTime.onl](https://uptime.onl) - Free for 10 URLs, checked every 5 minutes
 - [UpTime360](https://uptime360.net) - checked every 5 minutes. Monitor server, website, blacklist, custom services and publish status pages
                                        Get notified instantly on popular notification channels like - Slack, Twitter, Email, SMS (Twillo) and Pushover
-- [PingRobot](https://pingrobot.io) - Free for 50 monitors, checked every 5 minutes
-- [Nodown](https://nodown.io) - Free for 5 probes, with email monitoring
 - [elmah.io](https://elmah.io/features/uptime-monitoring/) - Uptime monitoring combined with application error logging
 - [StatusList.app](https://statuslist.app) - Uptime monitoring with debug details and hosted status page in one dashboard
 - [Sematext Synthetics](https://sematext.com/synthetic-monitoring) - Website uptime, API, and SSL certificate monitoring.  Includes status pages and scriptable multi-page user transaction monitoring, etc.
