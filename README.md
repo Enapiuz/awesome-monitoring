@@ -49,6 +49,7 @@ Uptime
 *Application Performance monitoring*
 
 - [NewRelic](https://newrelic.com) - Complex service for both application and infrastructure monitoring
+- [Last9](https://last9.io/) - OpenTelemetry-native observability platform for APM, metrics, logs, and traces, built to handle high-cardinality data at scale.
 - [DataDog](https://www.datadoghq.com) - Complex service for both application and infrastructure monitoring
 - [OverOps](https://www.overops.com) - OverOps provides Automated Root Cause (ARC) analysis to reduce the time to identify and fix critical production application errors.
 - [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
@@ -78,6 +79,7 @@ Uptime
 
 - [Brubeck](https://github.com/github/brubeck) - Statsd-compatible stats aggregator written in C
 - [Loggly](https://loggly.com) - Aggregate & analyze logs from any source
+- [Last9](https://last9.io/) - OpenTelemetry-native observability platform with log collection, search, and analysis.
 - [Logit.io](https://logit.io) - Centralise logs and metrics using the ELK Stack, Grafana & Open Distro.
 - [Sematext Logs](https://sematext.com/logsene) - Log monitoring with log auto-discovery and alerting; comes with out of the box dashboards, pipelines for transforming, masking, dropping, sampling log events and more.  Basic plan is free.
 
