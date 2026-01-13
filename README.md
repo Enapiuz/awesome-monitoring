@@ -7,7 +7,6 @@ A curated list of amazingly awesome tools, services and other shiny things for m
 Complex infrastructure software
 
 - [Zabbix](http://www.zabbix.com) - Real-time monitoring of millions of metrics collected from tens of thousands of servers, virtual machines and network devices
-- [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 - [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
 - [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
 - [Opsview](https://www.opsview.com/products/opsview-atom) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
@@ -23,7 +22,7 @@ Dashboards
 - [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 - [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
 - [Adagios](http://adagios.org/) - Web based Nagios configuration interface.
-- [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
+- [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, and Icinga.
 - [Uchiwa](https://uchiwa.io) - Simple dashboard for the Sensu monitoring framework.
 - [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
 - [Netdata](https://www.netdata.cloud/agent/) - Troubleshoot slowdowns and anomalies in your infrastructure with thousands of metrics, interactive visualizations, and insightful health alarms.
