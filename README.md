@@ -96,6 +96,7 @@ Uptime
 Tools for databases
 
 - [Anemometer](https://github.com/box/Anemometer) - MySQL Slow Query Monitor
+- [QuerySharp](https://querysharp.com) - AI-Powered PostgreSQL performance monitoring. Slow query analysis, index recommendations, query rewriting.
 
 Databases
 
