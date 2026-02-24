@@ -34,6 +34,7 @@ Uptime
 - [Freshping](https://www.freshworks.com/website-monitoring) - Free for 50 monitors, checked every 1 minutes, supports websocket monitoring
 - [Monitive](http://monitive.com) - Free for 1 service, checked every 10 minutes with unlimited email & twitter alerts
 - [Checkly](https://www.checklyhq.com/) - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright.
+- [CronGuard](https://github.com/opspawn/cronguard) - Heartbeat-based cron job monitoring with webhook alerts and web dashboard.
 - [UptimeRobot](https://uptimerobot.com) - Free for 50 monitors, checked every 5 minutes
 - [UpTime.onl](https://uptime.onl) - Free for 10 URLs, checked every 5 minutes
 - [UpTime360](https://uptime360.net) - checked every 5 minutes. Monitor server, website, blacklist, custom services and publish status pages
