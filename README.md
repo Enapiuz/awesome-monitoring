@@ -26,6 +26,7 @@ Dashboards
 - [Uchiwa](https://uchiwa.io) - Simple dashboard for the Sensu monitoring framework.
 - [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
 - [Netdata](https://www.netdata.cloud/agent/) - Troubleshoot slowdowns and anomalies in your infrastructure with thousands of metrics, interactive visualizations, and insightful health alarms.
+- [Kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux server monitoring tool
 
 Uptime
 
