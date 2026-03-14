@@ -51,6 +51,7 @@ Uptime
 - [NewRelic](https://newrelic.com) - Complex service for both application and infrastructure monitoring
 - [Last9](https://last9.io/) - OpenTelemetry-native observability platform for APM, metrics, logs, and traces, built to handle high-cardinality data at scale.
 - [DataDog](https://www.datadoghq.com) - Complex service for both application and infrastructure monitoring
+- [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA Runtime and Driver APIs via kernel uprobes plus host OS events to build causal chains explaining GPU latency. Zero-config, <2% overhead, production-safe.
 - [OverOps](https://www.overops.com) - OverOps provides Automated Root Cause (ARC) analysis to reduce the time to identify and fix critical production application errors.
 - [AppSignal](https://appsignal.com) - Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.
 - [BitDive](https://bitdive.io/) - APM for Java/Kotlin with distributed tracing, method-level profiling, and performance metrics.
