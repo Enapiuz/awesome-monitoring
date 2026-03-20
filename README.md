@@ -77,6 +77,7 @@ Uptime
 ## Anomalies
 
 - [Banshee](https://github.com/facesea/banshee) - Real-time anomalies(outliers) detection system for periodic metrics
+- [BillingWatch](https://github.com/rmbell09-lang/BillingWatch) - Self-hosted Stripe anomaly detector — catch webhook lag, silent billing lapses, and failed charge patterns before your customers do.
 
 ## Logging
 
