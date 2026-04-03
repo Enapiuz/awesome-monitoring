@@ -44,6 +44,8 @@ Uptime
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - An easy-to-use self-hosted monitoring tool.
 - [Phare](https://phare.io/products/uptime) - Free 100k monitoring events per months, 30s intervals, unlimited users, incident management, and sleek status pages.
 - [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
+- [Spork](https://sporkops.com) - Uptime monitoring with built-in status pages, CLI, and Terraform provider. Multi-region consensus checks from $4/mo.
+
 
 ## APM
 *Application Performance monitoring*
