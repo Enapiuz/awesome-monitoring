@@ -6,6 +6,8 @@ A curated list of amazingly awesome tools, services and other shiny things for m
 
 Complex infrastructure software
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 - [Zabbix](http://www.zabbix.com) - Real-time monitoring of millions of metrics collected from tens of thousands of servers, virtual machines and network devices
 - [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
 - [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
