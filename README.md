@@ -26,6 +26,7 @@ Dashboards
 - [Uchiwa](https://uchiwa.io) - Simple dashboard for the Sensu monitoring framework.
 - [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
 - [Netdata](https://www.netdata.cloud/agent/) - Troubleshoot slowdowns and anomalies in your infrastructure with thousands of metrics, interactive visualizations, and insightful health alarms.
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes monitoring dashboard with AI-powered operations and real-time observability across edge and cloud clusters.
 
 Uptime
 
