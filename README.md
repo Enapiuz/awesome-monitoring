@@ -56,6 +56,7 @@ Uptime
 - [BitDive](https://bitdive.io/) - APM for Java/Kotlin with distributed tracing, method-level profiling, and performance metrics.
 - [Middleware](https://middleware.io) - Middleware's APM helps you troubleshoot issues in real-time, optimize performance, improve user experience, and reduce downtime.
 - [PerfScope](https://github.com/sattyamjjain/perfscope) - Advanced Python performance profiler with decorator-based setup, call tree visualization, memory tracking, and multi-format report export.
+- [CoreDash](https://coredash.app) - Real user monitoring for Core Web Vitals (LCP, INP, CLS, TTFB, FCP) with element level attribution, request waterfalls, LoAF data, and a built in MCP server so AI agents can query live performance data. EU hosted, GDPR compliant.
 
 ## Web Analytics
 
