@@ -131,3 +131,5 @@ Databases
 # License
 
 [![CC4](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI agent monitoring dashboard. Track task execution, token usage, and agent activity in real time. Vue 3 + Element Plus + ECharts. ![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)
