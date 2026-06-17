@@ -15,6 +15,7 @@ Complex infrastructure software
 - [Icinga 2](https://www.icinga.com/) - A Nagios like monitoring system, rewritten and expanded.
 - [openITCOCKPIT](https://openitcockpit.io/) - Powerful open-source monitoring tool built upon Naemon or Nagios, featuring seamless integration with Grafana, an array of comprehensive reports, and visualizations.
 - [Sematext Cloud](https://sematext.com/) - Infrastructure and log monitoring with service and log auto-discovery.  Basic plan is free.
+- [Middleware](https://middleware.io/) - Full-stack observability platform with infrastructure monitoring, Kubernetes monitoring, APM, logs, distributed tracing, real user monitoring, synthetic monitoring, and AI-assisted incident investigation.
 
 Dashboards
 
