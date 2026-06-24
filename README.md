@@ -127,6 +127,7 @@ Databases
 - [Smokeping](https://oss.oetiker.ch/smokeping/) - SmokePing is a deluxe latency measurement tool.
 - [LibreNMS](https://github.com/librenms/librenms/) - Fork of Observium.
 - [Fluere](https://github.com/SkuldNorniern/fluere) - Versatile network interface monitoring and analysis tool, capable of capturing network packets in pcap format, NetFlow data. supports lua based plugins
+- [Flowtriq](https://github.com/Flowtriq/flowtriq-pfsense-opnsense) - DDoS detection for firewalls and routers (pfSense, OPNsense, VyOS) via NetFlow/sFlow export. Detects volumetric floods, SYN floods, amplification attacks, and provides real-time alerting with automated mitigation.
 
 # License
 
