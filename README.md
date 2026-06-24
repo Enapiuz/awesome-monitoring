@@ -123,6 +123,7 @@ Databases
 
 - [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 - [dish](https://github.com/thevxn/dish) -  A lightweight monitoring service that efficiently checks socket connections and can be configured remotely. 
+- [NetHawk](https://github.com/Flowtriq/nethawk) - Real-time network traffic analysis TUI built in Go. Features bandwidth monitoring, protocol breakdown, top talkers, and DDoS attack detection.
 - [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 - [Smokeping](https://oss.oetiker.ch/smokeping/) - SmokePing is a deluxe latency measurement tool.
 - [LibreNMS](https://github.com/librenms/librenms/) - Fork of Observium.
