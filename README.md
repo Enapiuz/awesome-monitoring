@@ -140,6 +140,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
 - [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
 - [Seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite.
+- [n8n-uptime-ping-alert](https://github.com/ogamedeus/n8n-uptime-ping-alert) - Free n8n workflow that pings your services and alerts you on downtime via Telegram/Slack/email.
 
 ## Database
 
