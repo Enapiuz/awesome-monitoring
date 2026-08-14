@@ -61,7 +61,6 @@ External checks that request your endpoints from outside your own infrastructure
 - [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Open-source SSL/TLS certificate expiry monitoring tool with web UI and REST API. Checks certificate validity and days until expiration.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - An easy-to-use self-hosted monitoring tool.
 - [Phare](https://phare.io/products/uptime) - Free 100k monitoring events per months, 30s intervals, unlimited users, incident management, and sleek status pages.
-- [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
 - [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, SSL certificates, broken links, and DNS, with hosted status pages
 - [DevHelm](https://devhelm.io) - Developer-first uptime monitoring (HTTP, DNS, TCP, ICMP, heartbeat) with dependency intelligence for 80+ providers, hosted status pages, and config-as-code. Free tier: 50 monitors.
 - [Uptimeify.io](https://uptimeify.io) - Reliable and simple website and API monitoring with instant alerts and status pages.
@@ -102,7 +101,7 @@ External checks that request your endpoints from outside your own infrastructure
 
 ## API Status Aggregation
 
-- [API Status Check](https://apistatuscheck.com) - Real-time status dashboard for 160+ third-party APIs including AI platforms (OpenAI, Anthropic), cloud providers (AWS, Vercel), payments (Stripe, PayPal), and developer tools (GitHub, Supabase). Includes embeddable status badges.
+- [API Status Check](https://apistatuscheck.com) - Real-time status dashboard aggregating 285 third-party API status pages across 29 categories, including AI platforms (OpenAI, Anthropic), cloud providers (AWS, Vercel), payments (Stripe, PayPal), and developer tools (GitHub, Supabase). Includes embeddable status badges.
 - [DownStatus](https://isitdownstatus.com) - Free JSON API providing real-time status for GitHub, AWS, Discord, Cloudflare, Stripe, and 90+ popular services.
 - [IncidentHub](https://incidenthub.cloud) - Status page aggregator for monitoring SaaS and cloud providers.
 - [OpenChainBench](https://openchainbench.com) - Open live benchmarks of blockchain infrastructure APIs and RPC providers (latency p50/p90/p99, success rate, multi-region), built on a public Prometheus; all data CC-BY-4.0.
