@@ -106,7 +106,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [DownStatus](https://isitdownstatus.com) - Free JSON API providing real-time status for GitHub, AWS, Discord, Cloudflare, Stripe, and 90+ popular services.
 - [IncidentHub](https://incidenthub.cloud) - Status page aggregator for monitoring SaaS and cloud providers.
 - [OpenChainBench](https://openchainbench.com) - Open live benchmarks of blockchain infrastructure APIs and RPC providers (latency p50/p90/p99, success rate, multi-region), built on a public Prometheus; all data CC-BY-4.0.
-- [OutageDeck](https://outagedeck.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_monitoring) - Normalized status for 170+ cloud and SaaS providers, with a keyless REST API, MCP server, alerts, CLI, Home Assistant integration, and Prometheus/Grafana tooling.
+- [OutageDeck](https://outagedeck.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_monitoring) - Normalized vendor-published status for cloud and SaaS providers, with a keyless REST API, MCP server, alerts, CLI, Home Assistant integration, and Prometheus/Grafana tooling.
 - [StatusGator](https://statusgator.com) - Cloud service monitoring, aggregating status pages of cloud services into a single dashboard.
 - [Voidly Check](https://github.com/voidly-ai/voidly-check-action) - GitHub Action that verifies your services aren't blocked in target countries (Iran, China, Russia, etc.) using real OONI measurements. Backed by `api.voidly.ai` (19.6M samples).
 - [ClaudeDown](https://claudedown.com) - Real-time Claude AI complaint tracker using Twitter/X sentiment data to detect outages before official status pages.
