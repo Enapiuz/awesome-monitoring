@@ -46,6 +46,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [Pingdom](https://www.pingdom.com) - Synthetic and real user monitoring with transaction checks from 100+ probe locations.
 - [Pulsetic](https://pulsetic.com) - Uptime monitoring and status pages, checks run from 15 global locations.
 - [Safeship](https://safeship.app) - Endpoint monitoring that validates the JSON body against a schema rather than only the status code, billed per check performed. Configurable from an AI editor over MCP.
+- [Status Harbor](https://www.statusharbor.io) - Uptime checks (HTTP, TCP, UDP, SSL, DNS) plus host and Kubernetes cluster metrics from a single agent; monitors services behind the firewall over outbound HTTPS with no VPN or inbound ports. Free tier.
 - [StatusCake](https://www.statuscake.com) - Uptime, page speed, server and SSL monitoring with Lighthouse data on standard plans.
 - [Uptime.com](https://uptime.com) - 30+ check types including transaction monitoring and private location probes, with SLA reporting.
 - [UptimeRobot](https://uptimerobot.com) - Free for 50 monitors, checked every 5 minutes
