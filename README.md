@@ -31,6 +31,7 @@ Dashboards
 - [HomeLab Monitor](https://github.com/SikamikanikoBG/homelab-monitor) - Self-hosted homelab dashboard in a single Docker container - per-container GPU/VRAM attribution, Docker health, systemd service status, and host vitals across multiple machines over SSH.
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes monitoring dashboard with AI-powered operations and real-time observability across edge and cloud clusters.
 - [Kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux server monitoring tool
+- [StatLite](https://github.com/PVRLabs/statlite) - Lightweight self-hosted metrics dashboard for Spring Boot Actuator and StatLite-compatible JSON metrics endpoints, with SQLite storage and no Prometheus or Grafana required.
 
 Uptime and Synthetic Monitoring
 
