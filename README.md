@@ -74,6 +74,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [sunwatch](https://sunwatch.sunfamily.xyz) - Crypto-paid uptime monitoring for side projects. Pay per monitor with USDC on Base; webhook alerts on down/up state changes.
 - [Drumbeats](https://drumbeats.io) - Cron, heartbeat, and uptime monitoring with incident management and status pages. Free for up to 50 monitors, 200K Beats/mo, 1-minute checks, no credit card. One curl ping to instrument a job, no agent or SDK.
 - [Superhighway](https://superhighway.walls.sh) - Web API whose `/scrape` endpoint turns any URL into clean Markdown, useful for building your own content/page-change monitoring (e.g. competitor pricing, changelogs, pages without an RSS feed). See the [change-detection tutorial](https://superhighway.walls.sh/guides/web-change-detection-agent): scrape, SHA-256 hash comparison, LLM-summarize what changed, and schedule with cron or GitHub Actions. Free API key or pay-per-call.
+- [Seitendiff Watcher](https://github.com/peppe1337/seitendiff) - GitHub Actions template that watches a CSS-selected fragment of a public page and opens an issue in a repository you own when that fragment changes. Runs entirely on GitHub Actions; no server and no account elsewhere. MIT.
 
 ## APM
 *Application Performance monitoring*
