@@ -49,6 +49,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [StatusCake](https://www.statuscake.com) - Uptime, page speed, server and SSL monitoring with Lighthouse data on standard plans.
 - [Uptime.com](https://uptime.com) - 30+ check types including transaction monitoring and private location probes, with SLA reporting.
 - [UptimeRobot](https://uptimerobot.com) - Free for 50 monitors, checked every 5 minutes
+- [Vacato](https://vacato.io) - RDAP domain availability watchlist with email/Telegram alerts when a name looks free. Free: 10 domains, 5-min checks. Alerts only - not a drop-catcher.
 - [UpTime.onl](https://uptime.onl) - Free for 10 URLs, checked every 5 minutes
 - [UpTime360](https://uptime360.net) - checked every 5 minutes. Monitor server, website, blacklist, custom services and publish status pages
                                        Get notified instantly on popular notification channels like - Slack, Twitter, Email, SMS (Twillo) and Pushover
