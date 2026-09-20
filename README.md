@@ -110,6 +110,9 @@ External checks that request your endpoints from outside your own infrastructure
 - [Voidly Check](https://github.com/voidly-ai/voidly-check-action) - GitHub Action that verifies your services aren't blocked in target countries (Iran, China, Russia, etc.) using real OONI measurements. Backed by `api.voidly.ai` (19.6M samples).
 - [ClaudeDown](https://claudedown.com) - Real-time Claude AI complaint tracker using Twitter/X sentiment data to detect outages before official status pages.
 
+- [NextReset](https://nextreset.ai/) - AI-focused status resource with source-linked OpenAI and Anthropic incidents plus Codex reset history.
+
+
 ## API Analytics
 
 - [Apitally](https://apitally.io) - Analytics, request logging and monitoring for REST APIs with a focus on simplicity and data privacy.
