@@ -11,6 +11,7 @@ Complex infrastructure software
 - [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
 - [Opsview](https://www.opsview.com/products/opsview-atom) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
 - [Centreon](http://www.centreon.com) - IT infrastructure and application monitoring for service performance.
+- [Rustinion](https://rustinion.com) - Cross-platform (Windows/Mac/Linux/BSD/OpenWRT) device management and monitoring, single Rust binary, real per-OS package manager integration (apt/dnf/Homebrew/winget), no agent bloat. Built for MSPs and network/infra teams running edge devices that traditional MDM tools (Jamf/Intune) don't cover.
 - [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
 - [Icinga 2](https://www.icinga.com/) - A Nagios like monitoring system, rewritten and expanded.
 - [openITCOCKPIT](https://openitcockpit.io/) - Powerful open-source monitoring tool built upon Naemon or Nagios, featuring seamless integration with Grafana, an array of comprehensive reports, and visualizations.
