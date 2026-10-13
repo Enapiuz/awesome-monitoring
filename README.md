@@ -17,6 +17,7 @@ Complex infrastructure software
 - [Sematext Cloud](https://sematext.com/) - Infrastructure and log monitoring with service and log auto-discovery.  Basic plan is free.
 - [Middleware](https://middleware.io/) - Full-stack observability platform with infrastructure monitoring, Kubernetes monitoring, APM, logs, distributed tracing, real user monitoring, synthetic monitoring, and AI-assisted incident investigation.
 - [Fivenines](https://fivenines.io) - Server, uptime, cron and network monitoring. One platform. 5 first monitors are free.
+- [Opservo](https://getopservo.com) - Linux server monitoring that explains each problem in plain English and proposes the fix. Free for 2 servers.
 
 Dashboards
 
