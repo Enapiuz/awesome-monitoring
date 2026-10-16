@@ -17,7 +17,7 @@ Complex infrastructure software
 - [Sematext Cloud](https://sematext.com/) - Infrastructure and log monitoring with service and log auto-discovery.  Basic plan is free.
 - [Middleware](https://middleware.io/) - Full-stack observability platform with infrastructure monitoring, Kubernetes monitoring, APM, logs, distributed tracing, real user monitoring, synthetic monitoring, and AI-assisted incident investigation.
 - [Fivenines](https://fivenines.io) - Server, uptime, cron and network monitoring. One platform. 5 first monitors are free.
-- [Rustinion](https://rustinion.com) - Cross-platform device management/monitoring agent written in Rust, covering Linux, macOS, Windows, FreeBSD/NetBSD, and OpenWRT/pfSense edge devices with a single binary; native per-OS package manager integration (apt/dnf/Homebrew/winget) and compliance evidence collection for regulated SMBs.
+- [Rustinion](https://rustinion.com) - Cross-platform device management/monitoring agent written in Rust, covering Linux, macOS, Windows, FreeBSD/NetBSD, and OpenWRT/pfSense edge devices; patching through native package managers (apt/dnf/Homebrew/winget), compliance reporting, and optional host metrics, SNMP and log monitoring. Commercial.
 
 Dashboards
 
