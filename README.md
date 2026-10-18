@@ -65,7 +65,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, SSL certificates, broken links, and DNS, with hosted status pages
 - [DevHelm](https://devhelm.io) - Developer-first uptime monitoring (HTTP, DNS, TCP, ICMP, heartbeat) with dependency intelligence for 80+ providers, hosted status pages, and config-as-code. Free tier: 50 monitors.
 - [Uptimeify.io](https://uptimeify.io) - Reliable and simple website and API monitoring with instant alerts and status pages.
-- [VisualSentinel](https://visualsentinel.com) - Website monitoring with uptime, visual change detection (screenshot diff of the live site), SSL, DNS, performance, and content checks. Free tier for 3 monitors, checks from EU and US. Alerts via Slack, Discord, WhatsApp, Telegram, PagerDuty and webhooks.
+- [VisualSentinel](https://visualsentinel.com) - Website monitoring with uptime, visual change detection (screenshot diff of the live site), SSL, DNS, performance, and content checks. Paid plans from $15/month with a 7-day trial, checks from EU and US. Alerts via Slack, Discord, WhatsApp, Telegram, PagerDuty and webhooks.
 - [Crontiq](https://crontiq.io) - Free cron job monitoring with automatic JSON metric extraction and zero-config anomaly detection. 20 monitors free forever.
 - [Spork](https://sporkops.com) - Uptime monitoring with built-in status pages, CLI, and Terraform provider. Multi-region consensus checks from $4/mo.
 - [FlareWarden](https://flarewarden.com) — Uptime, content, dependency, and SSL monitoring with multi-region verification and status pages. Free plan includes 15 monitors, 5-minute checks, and 90 days of history.
