@@ -43,6 +43,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [Oack](https://oack.io) - HTTP monitoring with TCP kernel telemetry, 6-phase latency breakdown, Server-Timing header capture, Cloudflare CDN enrichment, and built-in incident management with on-call scheduling.
 - [Checkly](https://www.checklyhq.com/) - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright.
 - [Cronitor](https://cronitor.io) - Cron job and heartbeat monitoring alongside uptime checks, with schedule-aware alerting.
+- [WatchCron](https://watchcron.com) - Cron job and scheduled task monitoring with heartbeat pings, duration tracking, and multi-channel failure alerts. 5 free monitors.
 - [Pingdom](https://www.pingdom.com) - Synthetic and real user monitoring with transaction checks from 100+ probe locations.
 - [Pulsetic](https://pulsetic.com) - Uptime monitoring and status pages, checks run from 15 global locations.
 - [Safeship](https://safeship.app) - Endpoint monitoring that validates the JSON body against a schema rather than only the status code, billed per check performed. Configurable from an AI editor over MCP.
