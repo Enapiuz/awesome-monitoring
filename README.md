@@ -135,6 +135,7 @@ Checks based on receipts sent by scheduled jobs and workflows
 - [StatusGator](https://statusgator.com) - Cloud service monitoring, aggregating status pages of cloud services into a single dashboard.
 - [Voidly Check](https://github.com/voidly-ai/voidly-check-action) - GitHub Action that verifies your services aren't blocked in target countries (Iran, China, Russia, etc.) using real OONI measurements. Backed by `api.voidly.ai` (19.6M samples).
 - [ClaudeDown](https://claudedown.com) - Real-time Claude AI complaint tracker using Twitter/X sentiment data to detect outages before official status pages.
+- [Datvero Automation Status](https://datvero.com/automation-status/) - Zapier and Make official status feeds republished with observation timestamps, plus a log of recent incidents and a machine-readable data.json, updated about every 15 minutes.
 
 - [NextReset](https://nextreset.ai/) - AI-focused status resource with source-linked OpenAI and Anthropic incidents plus Codex reset history.
 
