@@ -85,6 +85,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [SolidPing](https://github.com/fclairamb/solidping) - Open-source, self-hosted uptime monitoring in a single Go binary: HTTP, TCP, DNS, SSL, ICMP and browser checks, multi-region workers, status pages and on-call escalation. Free hosted tier at [solidping.io](https://www.solidping.io).
 - [Tá Rodando](https://tarodando.com.br) - HTTP uptime monitoring with a public status page and incidents, in Portuguese. Alerts by email, Telegram, web push and Slack/Discord/Google Chat webhooks, and a remote MCP server for AI agents. Free for 10 monitors, checked every 5 minutes, no credit card.
 - [gha-deadman](https://github.com/GeiserX/gha-deadman) - Dead-man's switch that runs on free GitHub Actions: probes a URL on a schedule from GitHub-hosted runners and sends a Telegram alert when it goes down, hourly while it stays down, and on recovery.
+- [Relvato](https://www.relvato.com) - Real-browser website monitoring: uptime from two regions, SSL and domain expiry, checkout and login flows, security, lab and real-visitor Core Web Vitals, SEO and visual changes. Monitors run again after WordPress/WooCommerce updates and GitHub deploys. Free plan: 1 site, 100 runs/month.
 
 ## Cron and Workflow Monitoring
 
