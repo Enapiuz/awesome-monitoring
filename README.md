@@ -76,6 +76,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [Drumbeats](https://drumbeats.io) - Cron, heartbeat, and uptime monitoring with incident management and status pages. Free for up to 50 monitors, 200K Beats/mo, 1-minute checks, no credit card. One curl ping to instrument a job, no agent or SDK.
 - [Superhighway](https://superhighway.walls.sh) - Web API whose `/scrape` endpoint turns any URL into clean Markdown, useful for building your own content/page-change monitoring (e.g. competitor pricing, changelogs, pages without an RSS feed). See the [change-detection tutorial](https://superhighway.walls.sh/guides/web-change-detection-agent): scrape, SHA-256 hash comparison, LLM-summarize what changed, and schedule with cron or GitHub Actions. Free API key or pay-per-call.
 - [CronAlive](https://cronalive.com) - Heartbeat monitoring for cron jobs and scheduled tasks, plus HTTP uptime checks confirmed from a second region and TLS expiry warnings in the same dashboard. A Laravel package creates checks from the scheduler. Free for 10 checks, no credit card.
+- [Merlonix](https://merlonix.com) - Uptime, DNS, and SSL/TLS certificate-expiry monitoring with alerts, plus AI-agent-readiness and MCP-server health checks. Free tier and free public tools (SSL check, domain health, agent-readiness scan), no credit card.
 
 ## APM
 *Application Performance monitoring*
