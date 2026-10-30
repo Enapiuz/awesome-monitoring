@@ -92,6 +92,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [Relvato](https://www.relvato.com) - Real-browser website monitoring: uptime from two regions, SSL and domain expiry, checkout and login flows, security, lab and real-visitor Core Web Vitals, SEO and visual changes. Monitors run again after WordPress/WooCommerce updates and GitHub deploys. Free plan: 1 site, 100 runs/month.
 - [RivalSweep](https://rivalsweep.com) - Monitors competitors' public pricing, changelog and product pages, diffs each change and keeps the before/after text as evidence.
 - [CheckoutAlarm](https://checkoutalarm.com/) - Page checks plus Stripe health for small web apps: emails you when Stripe webhook events go undelivered, an endpoint is disabled, or sales stall, using a read-only restricted key. Free for 1 site checked daily; Pro $19/mo for 3 sites checked hourly.
+- [moon](https://github.com/yasaricli/moon) - Self-hosted website and API uptime monitor with a live dashboard, per-check DNS/TCP/TLS/server timing, SSL expiry tracking and a public status page.
 
 ## Cron and Workflow Monitoring
 
