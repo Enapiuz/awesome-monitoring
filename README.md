@@ -186,6 +186,7 @@ Databases
 - [LibreNMS](https://github.com/librenms/librenms/) - Fork of Observium.
 - [Fluere](https://github.com/SkuldNorniern/fluere) - Versatile network interface monitoring and analysis tool, capable of capturing network packets in pcap format, NetFlow data. supports lua based plugins
 - [Flowtriq](https://github.com/Flowtriq/flowtriq-pfsense-opnsense) - DDoS detection for firewalls and routers (pfSense, OPNsense, VyOS) via NetFlow/sFlow export. Detects volumetric floods, SYN floods, amplification attacks, and provides real-time alerting with automated mitigation.
+- [prt](https://github.com/rekurt/prt) - Terminal network port inspector for macOS and Linux with process details, connection change tracking, and JSON/CSV export.
 
 ## Related
 
