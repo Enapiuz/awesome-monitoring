@@ -81,6 +81,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [Merlonix](https://merlonix.com) - Uptime, DNS, and SSL/TLS certificate-expiry monitoring with alerts, plus AI-agent-readiness and MCP-server health checks. Free tier and free public tools (SSL check, domain health, agent-readiness scan), no credit card.
 - [Watchgoose](https://watchgoose.com) - Heartbeat monitoring and status pages for cron jobs, backups, Kubernetes jobs and scheduled tasks. Jobs ping a URL or send an email when they run; alerts fire when a run is late or reports failure. Supports cron and systemd OnCalendar schedules. Free plan available. Open Source support program for qualifying OS projects.
 - [Nightlamp Health Recipes](https://github.com/ryabinski-labs/nightlamp-health-recipes) - Open-source health-check recipes for no-code and AI-built apps: copyable monitor definitions, diagnostic checklists, and incident runbooks (Stripe webhooks, magic-link emails, cron jobs, SSL). By Nightlamp — monitoring for no-code apps (nightlamp.app).
+- [SolidPing](https://github.com/fclairamb/solidping) - Open-source, self-hosted uptime monitoring in a single Go binary: HTTP, TCP, DNS, SSL, ICMP and browser checks, multi-region workers, status pages and on-call escalation. Free hosted tier at [solidping.io](https://www.solidping.io).
 
 ## Cron and Workflow Monitoring
 
