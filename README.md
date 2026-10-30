@@ -137,6 +137,7 @@ Checks based on receipts sent by scheduled jobs and workflows
 - [Honeybadger](https://www.honeybadger.io) - Monitor application errors, performance, uptime, and logs in one simple tool for developers.
 - [Sentry](https://sentry.io) - Application monitoring, event logging and aggregation.
 - [Bugsnag](https://bugsnag.com) - Application monitoring, event logging and aggregation.
+- [Epure](https://github.com/epure-sh/epure) - Self-hosted exception-only error tracking. Sentry SDK compatible.
 
 ## Anomalies
 
