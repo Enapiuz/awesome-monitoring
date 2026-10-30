@@ -18,6 +18,7 @@ Complex infrastructure software
 - [Middleware](https://middleware.io/) - Full-stack observability platform with infrastructure monitoring, Kubernetes monitoring, APM, logs, distributed tracing, real user monitoring, synthetic monitoring, and AI-assisted incident investigation.
 - [Fivenines](https://fivenines.io) - Server, uptime, cron and network monitoring. One platform. 5 first monitors are free.
 - [server-spy](https://lennart-rth.github.io/server-spy/) - A monitoring tool for multi-run experiments on shared servers. It tracks congestion (PSI, scheduler wait) and shows how much specific runs got slowed down by other users' jobs, helping researchers identify skewed experiment comparisons.
+- [exit1.dev](https://exit1.dev) - Uptime monitoring for websites, APIs and servers over HTTP, TCP, UDP, WebSocket and ICMP, with SSL and domain expiry alerts and status pages. 50 monitors are free.
 
 Dashboards
 
