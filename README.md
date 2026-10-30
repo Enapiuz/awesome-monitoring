@@ -17,6 +17,7 @@ Complex infrastructure software
 - [Sematext Cloud](https://sematext.com/) - Infrastructure and log monitoring with service and log auto-discovery.  Basic plan is free.
 - [Middleware](https://middleware.io/) - Full-stack observability platform with infrastructure monitoring, Kubernetes monitoring, APM, logs, distributed tracing, real user monitoring, synthetic monitoring, and AI-assisted incident investigation.
 - [Fivenines](https://fivenines.io) - Server, uptime, cron and network monitoring. One platform. 5 first monitors are free.
+- [server-spy](https://lennart-rth.github.io/server-spy/) - A monitoring tool for multi-run experiments on shared servers. It tracks congestion (PSI, scheduler wait) and shows how much specific runs got slowed down by other users' jobs, helping researchers identify skewed experiment comparisons.
 
 Dashboards
 
@@ -46,6 +47,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [Pingdom](https://www.pingdom.com) - Synthetic and real user monitoring with transaction checks from 100+ probe locations.
 - [Pulsetic](https://pulsetic.com) - Uptime monitoring and status pages, checks run from 15 global locations.
 - [Safeship](https://safeship.app) - Endpoint monitoring that validates the JSON body against a schema rather than only the status code, billed per check performed. Configurable from an AI editor over MCP.
+- [Status Harbor](https://www.statusharbor.io) - Uptime checks (HTTP, TCP, UDP, SSL, DNS) plus host and Kubernetes cluster metrics from a single agent; monitors services behind the firewall over outbound HTTPS with no VPN or inbound ports. Free tier.
 - [StatusCake](https://www.statuscake.com) - Uptime, page speed, server and SSL monitoring with Lighthouse data on standard plans.
 - [Uptime.com](https://uptime.com) - 30+ check types including transaction monitoring and private location probes, with SLA reporting.
 - [UptimeRobot](https://uptimerobot.com) - Free for 50 monitors, checked every 5 minutes
@@ -61,7 +63,6 @@ External checks that request your endpoints from outside your own infrastructure
 - [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Open-source SSL/TLS certificate expiry monitoring tool with web UI and REST API. Checks certificate validity and days until expiration.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - An easy-to-use self-hosted monitoring tool.
 - [Phare](https://phare.io/products/uptime) - Free 100k monitoring events per months, 30s intervals, unlimited users, incident management, and sleek status pages.
-- [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
 - [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, SSL certificates, broken links, and DNS, with hosted status pages
 - [DevHelm](https://devhelm.io) - Developer-first uptime monitoring (HTTP, DNS, TCP, ICMP, heartbeat) with dependency intelligence for 80+ providers, hosted status pages, and config-as-code. Free tier: 50 monitors.
 - [Uptimeify.io](https://uptimeify.io) - Reliable and simple website and API monitoring with instant alerts and status pages.
@@ -74,6 +75,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [sunwatch](https://sunwatch.sunfamily.xyz) - Crypto-paid uptime monitoring for side projects. Pay per monitor with USDC on Base; webhook alerts on down/up state changes.
 - [Drumbeats](https://drumbeats.io) - Cron, heartbeat, and uptime monitoring with incident management and status pages. Free for up to 50 monitors, 200K Beats/mo, 1-minute checks, no credit card. One curl ping to instrument a job, no agent or SDK.
 - [Superhighway](https://superhighway.walls.sh) - Web API whose `/scrape` endpoint turns any URL into clean Markdown, useful for building your own content/page-change monitoring (e.g. competitor pricing, changelogs, pages without an RSS feed). See the [change-detection tutorial](https://superhighway.walls.sh/guides/web-change-detection-agent): scrape, SHA-256 hash comparison, LLM-summarize what changed, and schedule with cron or GitHub Actions. Free API key or pay-per-call.
+- [CronAlive](https://cronalive.com) - Heartbeat monitoring for cron jobs and scheduled tasks, plus HTTP uptime checks confirmed from a second region and TLS expiry warnings in the same dashboard. A Laravel package creates checks from the scheduler. Free for 10 checks, no credit card.
 - [Merlonix](https://merlonix.com) - Uptime, DNS, and SSL/TLS certificate-expiry monitoring with alerts, plus AI-agent-readiness and MCP-server health checks. Free tier and free public tools (SSL check, domain health, agent-readiness scan), no credit card.
 
 ## APM
@@ -103,10 +105,11 @@ External checks that request your endpoints from outside your own infrastructure
 
 ## API Status Aggregation
 
-- [API Status Check](https://apistatuscheck.com) - Real-time status dashboard for 160+ third-party APIs including AI platforms (OpenAI, Anthropic), cloud providers (AWS, Vercel), payments (Stripe, PayPal), and developer tools (GitHub, Supabase). Includes embeddable status badges.
+- [API Status Check](https://apistatuscheck.com) - Real-time status dashboard aggregating 285 third-party API status pages across 29 categories, including AI platforms (OpenAI, Anthropic), cloud providers (AWS, Vercel), payments (Stripe, PayPal), and developer tools (GitHub, Supabase). Includes embeddable status badges.
 - [DownStatus](https://isitdownstatus.com) - Free JSON API providing real-time status for GitHub, AWS, Discord, Cloudflare, Stripe, and 90+ popular services.
 - [IncidentHub](https://incidenthub.cloud) - Status page aggregator for monitoring SaaS and cloud providers.
 - [OpenChainBench](https://openchainbench.com) - Open live benchmarks of blockchain infrastructure APIs and RPC providers (latency p50/p90/p99, success rate, multi-region), built on a public Prometheus; all data CC-BY-4.0.
+- [OutageDeck](https://outagedeck.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_monitoring) - Normalized vendor-published status for cloud and SaaS providers, with a keyless REST API, MCP server, alerts, CLI, Home Assistant integration, and Prometheus/Grafana tooling.
 - [StatusGator](https://statusgator.com) - Cloud service monitoring, aggregating status pages of cloud services into a single dashboard.
 - [Voidly Check](https://github.com/voidly-ai/voidly-check-action) - GitHub Action that verifies your services aren't blocked in target countries (Iran, China, Russia, etc.) using real OONI measurements. Backed by `api.voidly.ai` (19.6M samples).
 - [ClaudeDown](https://claudedown.com) - Real-time Claude AI complaint tracker using Twitter/X sentiment data to detect outages before official status pages.
@@ -157,6 +160,7 @@ Databases
 - [Levitate](https://last9.io/levitate-tsdb) - A Managed Time Series Metrics and Events Warehouse built to handle High Cardinality data.
  
 ## Network
+- [Nexus Shell](https://nexusshell.app/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_monitoring) - Native macOS SSH workspace with server metrics, ping, UDP loss and jitter, TCP bandwidth, and route diagnostics.
 
 - [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 - [dish](https://github.com/thevxn/dish) -  A lightweight monitoring service that efficiently checks socket connections and can be configured remotely. 
