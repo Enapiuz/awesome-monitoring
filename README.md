@@ -78,6 +78,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [Superhighway](https://superhighway.walls.sh) - Web API whose `/scrape` endpoint turns any URL into clean Markdown, useful for building your own content/page-change monitoring (e.g. competitor pricing, changelogs, pages without an RSS feed). See the [change-detection tutorial](https://superhighway.walls.sh/guides/web-change-detection-agent): scrape, SHA-256 hash comparison, LLM-summarize what changed, and schedule with cron or GitHub Actions. Free API key or pay-per-call.
 - [CronAlive](https://cronalive.com) - Heartbeat monitoring for cron jobs and scheduled tasks, plus HTTP uptime checks confirmed from a second region and TLS expiry warnings in the same dashboard. A Laravel package creates checks from the scheduler. Free for 10 checks, no credit card.
 - [Merlonix](https://merlonix.com) - Uptime, DNS, and SSL/TLS certificate-expiry monitoring with alerts, plus AI-agent-readiness and MCP-server health checks. Free tier and free public tools (SSL check, domain health, agent-readiness scan), no credit card.
+- [Watchgoose](https://watchgoose.com) - Heartbeat monitoring and status pages for cron jobs, backups, Kubernetes jobs and scheduled tasks. Jobs ping a URL or send an email when they run; alerts fire when a run is late or reports failure. Supports cron and systemd OnCalendar schedules. Free plan available. Open Source support program for qualifying OS projects.
 
 ## APM
 *Application Performance monitoring*
