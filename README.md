@@ -81,6 +81,12 @@ External checks that request your endpoints from outside your own infrastructure
 - [Watchgoose](https://watchgoose.com) - Heartbeat monitoring and status pages for cron jobs, backups, Kubernetes jobs and scheduled tasks. Jobs ping a URL or send an email when they run; alerts fire when a run is late or reports failure. Supports cron and systemd OnCalendar schedules. Free plan available. Open Source support program for qualifying OS projects.
 - [Nightlamp Health Recipes](https://github.com/ryabinski-labs/nightlamp-health-recipes) - Open-source health-check recipes for no-code and AI-built apps: copyable monitor definitions, diagnostic checklists, and incident runbooks (Stripe webhooks, magic-link emails, cron jobs, SSL). By Nightlamp — monitoring for no-code apps (nightlamp.app).
 
+## Cron and Workflow Monitoring
+
+Checks based on receipts sent by scheduled jobs and workflows
+
+- [Keptick](https://keptick.aifirm.app/?utm_source=github&utm_medium=directory&utm_campaign=e08_awesome_monitoring) - Detects missing runs, reported failures, and output counts below a configured minimum. One free monitor with up to 500 outcome receipts per day; optional email alerts.
+
 ## APM
 *Application Performance monitoring*
 
