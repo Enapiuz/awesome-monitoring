@@ -84,6 +84,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [Nightlamp Health Recipes](https://github.com/ryabinski-labs/nightlamp-health-recipes) - Open-source health-check recipes for no-code and AI-built apps: copyable monitor definitions, diagnostic checklists, and incident runbooks (Stripe webhooks, magic-link emails, cron jobs, SSL). By Nightlamp — monitoring for no-code apps (nightlamp.app).
 - [SolidPing](https://github.com/fclairamb/solidping) - Open-source, self-hosted uptime monitoring in a single Go binary: HTTP, TCP, DNS, SSL, ICMP and browser checks, multi-region workers, status pages and on-call escalation. Free hosted tier at [solidping.io](https://www.solidping.io).
 - [Tá Rodando](https://tarodando.com.br) - HTTP uptime monitoring with a public status page and incidents, in Portuguese. Alerts by email, Telegram, web push and Slack/Discord/Google Chat webhooks, and a remote MCP server for AI agents. Free for 10 monitors, checked every 5 minutes, no credit card.
+- [gha-deadman](https://github.com/GeiserX/gha-deadman) - Dead-man's switch that runs on free GitHub Actions: probes a URL on a schedule from GitHub-hosted runners and sends a Telegram alert when it goes down, hourly while it stays down, and on recovery.
 
 ## Cron and Workflow Monitoring
 
