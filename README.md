@@ -21,6 +21,7 @@ Complex infrastructure software
 - [exit1.dev](https://exit1.dev) - Uptime monitoring for websites, APIs and servers over HTTP, TCP, UDP, WebSocket and ICMP, with SSL and domain expiry alerts and status pages. 50 monitors are free.
 - [Opservo](https://getopservo.com) - Linux server monitoring that explains each problem in plain English and proposes the fix. Free for 2 servers.
 - [Monitorable](https://monitorable.io/) - Hosted Linux server monitoring with an open-source OpenTelemetry agent. Host and Docker metrics, systemd services and SMART disk health, with built-in alerting. Free for up to 3 servers.
+- [Nizlo](https://nizlo.com) - Windows-first remote monitoring and management for MSPs and IT teams, with endpoint health, inventory, alerting, patching, scripting, and remote support.
 
 Dashboards
 
