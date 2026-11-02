@@ -99,6 +99,7 @@ External checks that request your endpoints from outside your own infrastructure
 Checks based on receipts sent by scheduled jobs and workflows
 
 - [Keptick](https://keptick.aifirm.app/?utm_source=github&utm_medium=directory&utm_campaign=e08_awesome_monitoring) - Detects missing runs, reported failures, and output counts below a configured minimum. One free monitor with up to 500 outcome receipts per day; optional email alerts.
+- [Vivere](https://vivere.dev) - Heartbeat monitoring for cron jobs, scheduled automations (n8n, Make, Zapier) and AI agents: a job pings a URL when it runs, and an alert fires when a ping is late or reports failure. An optional wrapper CLI records exit code, duration and output. Free for 25 monitors.
 
 ## APM
 *Application Performance monitoring*
