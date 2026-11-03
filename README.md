@@ -65,6 +65,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [ePulz.io](https://epulz.io) - EU-hosted, GDPR-friendly uptime monitoring with public status pages, SSL and domain expiry, heartbeats, visual checks and alerts via email/Telegram/Slack/MS Teams. 14 languages.
 - [Sematext Synthetics](https://sematext.com/synthetic-monitoring) - Website uptime, API, and SSL certificate monitoring.  Includes status pages and scriptable multi-page user transaction monitoring, etc.
 - [Tianji](https://github.com/msgbyte/tianji) - All-in-One Insight Hub
+- [site-care-check](https://github.com/digital-ayns-de/site-care-check) - Free MIT bash script that generates a monthly website maintenance report (HTTP status, response time, SSL expiry) in Markdown or JSON.
 - [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Open-source SSL/TLS certificate expiry monitoring tool with web UI and REST API. Checks certificate validity and days until expiration.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - An easy-to-use self-hosted monitoring tool.
 - [Phare](https://phare.io/products/uptime) - Free 100k monitoring events per months, 30s intervals, unlimited users, incident management, and sleek status pages.
