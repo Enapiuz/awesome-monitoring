@@ -124,6 +124,7 @@ Checks based on receipts sent by scheduled jobs and workflows
 - [PageGuard](https://pageguard.org) - Free all-in-one website health scanner powered by Lighthouse. Monitors performance, SEO, accessibility, and best practices with AI-generated action plans and a free REST API.
 - [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and cookie-free web analytics.
 - [Tianji](https://github.com/msgbyte/tianji) - All-in-One Insight Hub
+- [Betterloop](https://betterloopai.com) - One script tag that records rage clicks, dead clicks and JS errors and ranks what to fix first, plus a free speed, SEO and security check for any URL.
 
 ## API Status Aggregation
 
