@@ -160,6 +160,7 @@ Checks based on receipts sent by scheduled jobs and workflows
 ## Logging
 
 - [Brubeck](https://github.com/github/brubeck) - Statsd-compatible stats aggregator written in C
+- [Denpex](https://denpex.com) - GPU log diagnostics for training and inference failures across CUDA, PyTorch, NCCL, and vLLM workloads.
 - [Loggly](https://loggly.com) - Aggregate & analyze logs from any source
 - [Last9](https://last9.io/) - OpenTelemetry-native observability platform with log collection, search, and analysis.
 - [Logit.io](https://logit.io) - Centralise logs and metrics using the ELK Stack, Grafana & Open Distro.
