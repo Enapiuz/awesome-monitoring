@@ -93,6 +93,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [RivalSweep](https://rivalsweep.com) - Monitors competitors' public pricing, changelog and product pages, diffs each change and keeps the before/after text as evidence.
 - [CheckoutAlarm](https://checkoutalarm.com/) - Page checks plus Stripe health for small web apps: emails you when Stripe webhook events go undelivered, an endpoint is disabled, or sales stall, using a read-only restricted key. Free for 1 site checked daily; Pro $19/mo for 3 sites checked hourly.
 - [moon](https://github.com/yasaricli/moon) - Self-hosted website and API uptime monitor with a live dashboard, per-check DNS/TCP/TLS/server timing, SSL expiry tracking and a public status page.
+- [AnalyticsProof](https://analyticsproof.com) - Synthetic monitoring for analytics tracking: replays recorded journeys (e.g. product, cart, checkout) and alerts when a step's dataLayer event or GA4 hit changes; also checks tracking before cookie consent. Free for 1 website checked every 2 weeks; daily checks and Slack alerts from €49/mo.
 
 ## Cron and Workflow Monitoring
 
