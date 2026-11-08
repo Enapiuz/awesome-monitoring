@@ -152,6 +152,7 @@ Checks based on receipts sent by scheduled jobs and workflows
 - [Sentry](https://sentry.io) - Application monitoring, event logging and aggregation.
 - [Bugsnag](https://bugsnag.com) - Application monitoring, event logging and aggregation.
 - [Epure](https://github.com/epure-sh/epure) - Self-hosted exception-only error tracking. Sentry SDK compatible.
+- [LogBrew](https://logbrew.co) - Error tracking with the logs, traces and metrics around each error in one place. Accepts OpenTelemetry data and has an MCP server so coding agents can read issues. Generous free tier, no card needed.
 
 ## Anomalies
 
