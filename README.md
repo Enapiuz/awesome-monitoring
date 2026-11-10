@@ -171,6 +171,7 @@ Checks based on receipts sent by scheduled jobs and workflows
 - [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
 - [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
 - [Seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite.
+- [Nightingale](https://github.com/ccfos/nightingale) - Self-hosted alerting engine for metrics, logs, and databases, including Prometheus, VictoriaMetrics, Elasticsearch, and ClickHouse.
 
 ## Database
 
