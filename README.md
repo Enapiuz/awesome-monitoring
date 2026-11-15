@@ -93,6 +93,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [RivalSweep](https://rivalsweep.com) - Monitors competitors' public pricing, changelog and product pages, diffs each change and keeps the before/after text as evidence.
 - [CheckoutAlarm](https://checkoutalarm.com/) - Page checks plus Stripe health for small web apps: emails you when Stripe webhook events go undelivered, an endpoint is disabled, or sales stall, using a read-only restricted key. Free for 1 site checked daily; Pro $19/mo for 3 sites checked hourly.
 - [moon](https://github.com/yasaricli/moon) - Self-hosted website and API uptime monitor with a live dashboard, per-check DNS/TCP/TLS/server timing, SSL expiry tracking and a public status page.
+- [Upcheck](https://upcheck.so) - Website monitoring that checks uptime over HTTPS every 5 minutes (an outage is confirmed by a second probe before alerting), SSL certificates twice a day, DNS record changes every 6 hours and domain expiry daily over RDAP, with optional keyword, page change and TCP port checks. Alerts by email, Slack, Discord, Microsoft Teams or webhook; REST API and a hosted MCP server. $10/month plus $1 per site.
 
 ## Cron and Workflow Monitoring
 
