@@ -99,6 +99,7 @@ External checks that request your endpoints from outside your own infrastructure
 Checks based on receipts sent by scheduled jobs and workflows
 
 - [Keptick](https://keptick.aifirm.app/?utm_source=github&utm_medium=directory&utm_campaign=e08_awesome_monitoring) - Detects missing runs, reported failures, and output counts below a configured minimum. One free monitor with up to 500 outcome receipts per day; optional email alerts.
+- [SilenceWatch](https://silencewatch.com) - Heartbeat monitoring for cron jobs and scheduled tasks, alerts when a job stops running ([source](https://github.com/liliang-dev/SilenceWatch)).
 
 ## APM
 *Application Performance monitoring*
