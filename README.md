@@ -202,6 +202,7 @@ Databases
 ## Related
 
 - [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) - Observability and performance testing tools for performance engineering.
+- [UptimeCompare](https://uptimecompare.com) - Price comparison of 26 uptime monitoring tools: entry price, monitors included, cost per monitor and check interval, quoted from each vendor's page.
 
 # License
 
