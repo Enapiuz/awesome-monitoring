@@ -152,6 +152,7 @@ Checks based on receipts sent by scheduled jobs and workflows
 - [Sentry](https://sentry.io) - Application monitoring, event logging and aggregation.
 - [Bugsnag](https://bugsnag.com) - Application monitoring, event logging and aggregation.
 - [Epure](https://github.com/epure-sh/epure) - Self-hosted exception-only error tracking. Sentry SDK compatible.
+- [Runheed](https://runheed.com/?ref=awesome-monitoring) - Error tracking with an MCP server so coding agents can read stack traces, fix the code and resolve errors. Paid, Node and Python SDKs.
 
 ## Anomalies
 
