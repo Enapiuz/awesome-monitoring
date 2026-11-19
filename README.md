@@ -132,6 +132,7 @@ Checks based on receipts sent by scheduled jobs and workflows
 - [IncidentHub](https://incidenthub.cloud) - Status page aggregator for monitoring SaaS and cloud providers.
 - [OpenChainBench](https://openchainbench.com) - Open live benchmarks of blockchain infrastructure APIs and RPC providers (latency p50/p90/p99, success rate, multi-region), built on a public Prometheus; all data CC-BY-4.0.
 - [OutageDeck](https://outagedeck.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_monitoring) - Normalized vendor-published status for cloud and SaaS providers, with a keyless REST API, MCP server, alerts, CLI, Home Assistant integration, and Prometheus/Grafana tooling.
+- [Some Systems Operational](https://github.com/thumsl/somesystemsoperational) - Open source status page for the whole internet: aggregates the official status pages of 250+ services, with 90-day incident history and a keyless JSON API.
 - [StatusGator](https://statusgator.com) - Cloud service monitoring, aggregating status pages of cloud services into a single dashboard.
 - [Voidly Check](https://github.com/voidly-ai/voidly-check-action) - GitHub Action that verifies your services aren't blocked in target countries (Iran, China, Russia, etc.) using real OONI measurements. Backed by `api.voidly.ai` (19.6M samples).
 - [ClaudeDown](https://claudedown.com) - Real-time Claude AI complaint tracker using Twitter/X sentiment data to detect outages before official status pages.
