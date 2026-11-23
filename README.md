@@ -42,6 +42,7 @@ Uptime and Synthetic Monitoring
 External checks that request your endpoints from outside your own infrastructure
 
 - [Better Stack](https://betterstack.com/uptime) - Uptime monitoring bundled with log management and incident response, with on-call scheduling.
+- [TrustComponent Monitoring](https://www.trustcomponent.com/en/products/monitoring) - Uptime monitoring with 16 check types (HTTP, keyword, SSL, DNS, cron heartbeats and more), escalating alerts and status pages on your own domain. Hosted in the EU, free plan with 10 monitors.
 - [BlueWave Uptime](https://github.com/bluewave-labs/bluewave-uptime) - Open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful visualizations.
 - [Freshping](https://www.freshworks.com/website-monitoring) - Free for 50 monitors, checked every 1 minutes, supports websocket monitoring
 - [MCP Canary](https://mcpcanary.com) - Synthetic monitoring for remote MCP servers: calls a real tool on a schedule, asserts on the JSON result, flags tool contract changes, and alerts by email or webhook. Set up from a CLI.
