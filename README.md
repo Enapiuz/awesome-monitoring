@@ -46,7 +46,8 @@ External checks that request your endpoints from outside your own infrastructure
 - [Freshping](https://www.freshworks.com/website-monitoring) - Free for 50 monitors, checked every 1 minutes, supports websocket monitoring
 - [MCP Canary](https://mcpcanary.com) - Synthetic monitoring for remote MCP servers: calls a real tool on a schedule, asserts on the JSON result, flags tool contract changes, and alerts by email or webhook. Set up from a CLI.
 - [Monitive](http://monitive.com) - Free for 1 service, checked every 10 minutes with unlimited email & twitter alerts
-- [Oack](https://oack.io) - HTTP monitoring with TCP kernel telemetry, 6-phase latency breakdown, Server-Timing header capture, Cloudflare CDN enrichment, and built-in incident management with on-call scheduling.
+- [Oack](https://oack.io)
+- [OmniForge Launch Audit](https://github.com/zColdWater/vibeshield-action) - External security header, TLS/CSP, exposed JS bundle secret, SPF/DKIM/DMARC DNS, and llms.txt synthetic CI/CD monitoring via scheduled GitHub Actions or zero-install CLI. - HTTP monitoring with TCP kernel telemetry, 6-phase latency breakdown, Server-Timing header capture, Cloudflare CDN enrichment, and built-in incident management with on-call scheduling.
 - [Checkly](https://www.checklyhq.com/) - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright.
 - [Cronitor](https://cronitor.io) - Cron job and heartbeat monitoring alongside uptime checks, with schedule-aware alerting.
 - [Pingdom](https://www.pingdom.com) - Synthetic and real user monitoring with transaction checks from 100+ probe locations.
