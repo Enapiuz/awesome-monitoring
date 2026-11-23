@@ -119,6 +119,7 @@ Checks based on receipts sent by scheduled jobs and workflows
 ## Web Analytics
 
 - [Matomo](https://matomo.org/) - Take back control with Matomo – a powerful web analytics platform that gives you 100% data ownership.
+- [TrustAnalytics](https://www.trustcomponent.com/en/products/analytics) - Cookieless web analytics with funnels, heatmaps, session replay, Web Vitals and error tracking. Hosted in the EU, free plan with 10,000 page views and events a month.
 - [Heap Analytics](https://heap.io/) - Easy event tracking without coding
 - [Screpy](https://screpy.com) - Screpy is a web analyzer and monitoring tool. Its powered by Google Lighthouse.
 - [PageGuard](https://pageguard.org) - Free all-in-one website health scanner powered by Lighthouse. Monitors performance, SEO, accessibility, and best practices with AI-generated action plans and a free REST API.
