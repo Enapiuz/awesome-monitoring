@@ -187,6 +187,7 @@ Databases
 - [Levitate](https://last9.io/levitate-tsdb) - A Managed Time Series Metrics and Events Warehouse built to handle High Cardinality data.
  
 ## Network
+- [DNS Notify](https://dnsnotify.com/) - Hosted DNS record and nameserver change monitoring, with SSL certificate and domain expiry alerts. Records before-and-after values without DNS-provider credentials; paid service with a seven-day trial.
 - [Nexus Shell](https://nexusshell.app/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_monitoring) - Native macOS SSH workspace with server metrics, ping, UDP loss and jitter, TCP bandwidth, and route diagnostics.
 
 - [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
