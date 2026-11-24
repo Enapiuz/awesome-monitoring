@@ -99,6 +99,7 @@ External checks that request your endpoints from outside your own infrastructure
 Checks based on receipts sent by scheduled jobs and workflows
 
 - [Keptick](https://keptick.aifirm.app/?utm_source=github&utm_medium=directory&utm_campaign=e08_awesome_monitoring) - Detects missing runs, reported failures, and output counts below a configured minimum. One free monitor with up to 500 outcome receipts per day; optional email alerts.
+- [cronpulse-lite](https://github.com/alessio1999xx-debug/cronpulse-lite) - Open-source single-file Python wrapper for cron jobs: records exit code, duration and output, kills hung jobs after a timeout, and alerts Slack, Discord or any webhook on failure. No dependencies.
 
 ## APM
 *Application Performance monitoring*
