@@ -36,6 +36,7 @@ Dashboards
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes monitoring dashboard with AI-powered operations and real-time observability across edge and cloud clusters.
 - [Kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux server monitoring tool
 - [StatLite](https://github.com/PVRLabs/statlite) - Lightweight self-hosted metrics dashboard for Spring Boot Actuator and StatLite-compatible JSON metrics endpoints, with SQLite storage and no Prometheus or Grafana required.
+- [dpad](https://github.com/spar/dpad) - Terminal UI and docker CLI companion for watching containers: per-second CPU, memory, network and disk rates with sparklines, Compose project rollups, multi-container logs and a live Docker events timeline.
 
 Uptime and Synthetic Monitoring
 
