@@ -152,6 +152,7 @@ Checks based on receipts sent by scheduled jobs and workflows
 - [Sentry](https://sentry.io) - Application monitoring, event logging and aggregation.
 - [Bugsnag](https://bugsnag.com) - Application monitoring, event logging and aggregation.
 - [Epure](https://github.com/epure-sh/epure) - Self-hosted exception-only error tracking. Sentry SDK compatible.
+- [KittyTrace](https://kittytrace.com/) - Self-hosted error tracking compatible with the Sentry SDK, running on Cloudflare Workers and D1 or with Docker, plus a CLI for coding agents.
 
 ## Anomalies
 
