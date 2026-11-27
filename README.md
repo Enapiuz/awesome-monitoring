@@ -99,6 +99,7 @@ External checks that request your endpoints from outside your own infrastructure
 Checks based on receipts sent by scheduled jobs and workflows
 
 - [Keptick](https://keptick.aifirm.app/?utm_source=github&utm_medium=directory&utm_campaign=e08_awesome_monitoring) - Detects missing runs, reported failures, and output counts below a configured minimum. One free monitor with up to 500 outcome receipts per day; optional email alerts.
+- [Pingtastic](https://www.pingtastic.net) - Heartbeat monitoring for cron jobs and scheduled tasks plus active HTTP uptime checks, with Slack, Discord and webhook alerts and white-label client portals. From $5/mo.
 
 ## APM
 *Application Performance monitoring*
